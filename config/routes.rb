@@ -6,6 +6,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
    root "pages#home"
-   root "pages#projects"
-   root "pages#contact"
+  # root "pages#projects"
+  # root "pages#contact"
 end
