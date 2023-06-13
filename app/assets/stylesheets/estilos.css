@@ -1,0 +1,17 @@
+.text-decoration { 
+    text-decoration: none;
+    color: white; 
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+    
+}
+
+h5{
+    text-align: center;
+}
